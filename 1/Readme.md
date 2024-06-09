@@ -76,9 +76,9 @@ vrrp_instance VI_1 {
 ```
 ![alt text](screen/2.png)
 
-[Конф на ВМ 1](keepalivedVM1.conf)
+[Конф на ВМ 1](screen/keepalivedVM1.conf)
 [Скрипт на ВМ 1](screen/check.sh)
-[Конф на ВМ 2](keepalivedVM2.conf)
+[Конф на ВМ 2](screen/keepalivedVM2.conf)
 
 
 
