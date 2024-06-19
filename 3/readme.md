@@ -2,7 +2,7 @@
 
 rsync -ac --progress --delete --exclude ".*" . /tmp/backup1
 
-
+![](scr/1.png) 
 
 # Задание 2
 
@@ -32,7 +32,7 @@ fi
 5 0 * * * /home/v3ll/rsyncscripts.sh
 ```
 
-
-
+![](scr/21.png) 
+![](scr/22.png) 
 
 
