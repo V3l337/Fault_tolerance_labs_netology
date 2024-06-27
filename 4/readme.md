@@ -17,12 +17,19 @@ provider_installation {
 }
 ```
 4. terraform init
-5. Создал файл main.tf
 
-6. Создал файл varible.tf
+6. Создал файл [main.tf](file+screenshots/main.tf)
 
-7. Создал файл terraform.tfvars
+7. Создал файл [varible.tf](file+screenshots/varible.tf)
+
+8. Создал файл [terraform.tfvars](file+screenshots/terraform.tfvars)
    
-8. Создал файл cloud-conf.yaml
+9. Создал файл [cloud-conf.yaml](file+screenshots/cloud-conf.yaml)
     
-9. Создал файл outputs.tf
+10. Создал файл [outputs.tf](file+screenshots/outputs.tf)
+
+
+![](file+screenshots/loade-balanc-status.png)
+![](file+screenshots/curl.png)
+![](file+screenshots/br1.png)
+![](file+screenshots/br2.png)
