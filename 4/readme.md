@@ -31,5 +31,7 @@ provider_installation {
 
 ![](file+screenshots/loade-balanc-status.png)
 ![](file+screenshots/curl.png)
+
 ![](file+screenshots/br1.png)
+
 ![](file+screenshots/br2.png)
